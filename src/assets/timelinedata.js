@@ -1,0 +1,17 @@
+export const timelineData = [
+  { year: '1991', top: false, text: 'Born on 3rd May at the Portland Clinic, London. Baptized on 18th May at the Church of Our Lady of Dolours, London. On 8th September, Carlo returned to Milan with his parents.' },
+  { year: '1995', top: true, text: 'Began school at Parco Pagani, the public nursery near his home in Milan.' },
+  { year: '1997', top: false, text: 'Entered elementary school at the San Carlo Institute. Later transferred to the Tommaseo Institute run by the Sisters of Saint Marcellina, where he completed primary and middle school.' },
+  { year: '1998', top: true, text: 'On the 16th of June, at the age of 7, he received his first Holy Communion at the Convent of the Romite Sisters of Saint Ambrose in Perego.' },
+  { year: '2002', top: false, text: 'From ages 11-15, he started researching and documenting for his website made for the Eucharistic Miracles from across the world.' },
+  { year: '2003', top: true, text: 'On the 24th of May, received the Sacrament of Confirmation in his parish church, Santa Maria Segreta.' },
+  { year: '2005', top: false, text: 'Began secondary school at the Leo XIII Institute, run by the Jesuits.' },
+  { year: '2006', top: true, text: 'On the 8th of October, Carlo suddenly fell ill and was diagnosed with M3 acute leukaemia. On 12th October, he died in hospital in Milan and was buried in Piedmont.' },
+  { year: '2007', top: false, text: 'In January, in accordance with his request, his body was transferred to a cemetery in Assisi.' },
+  { year: '2012', top: true, text: 'On the 12th of October, the cause for Carlo’s canonisation was opened and he became a Servant of God.' },
+  { year: '2013', top: false, text: 'On the 13th of May, the Holy See’s Nihil Obstat approved his cause for beatification and canonisation.' },
+  { year: '2016', top: true, text: 'On the 24th of November, the diocesan phase of his cause was concluded and sent to Rome.' },
+  { year: '2018', top: false, text: 'On the 5th of July, Carlo was declared Venerable by Pope Francis.' },
+  { year: '2020', top: true, text: 'On the 10th of October, Carlo Acutis was beatified in Assisi by Pope Francis, making him "Blessed".' },
+  { year: '2025', top: false, text: 'On the 7th of September, Blessed Carlo Acutis was officially canonized as a Roman Catholic Saint by Pope Leo XIV.' },
+];
